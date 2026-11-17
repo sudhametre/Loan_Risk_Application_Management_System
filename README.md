@@ -6,8 +6,8 @@ A database-driven web application designed to manage loan applications, assess a
 
 | Name | SRN |
 |---|---|
-| Shweta Mailaragouda Patil | PES2UG25CS825 |
-| Soubhagya | PES2UG25CS827 |
+| Sudha | PES2UG24CS529|
+
 
 
 
